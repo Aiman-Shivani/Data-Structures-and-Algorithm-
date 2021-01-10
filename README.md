@@ -23,7 +23,7 @@
 [Arrays](#arrays-) |
 [Matrix](#Matrix-) |
 [String](#String-) |
-[Searching & Sorting](#Searching-&-orting-) |
+[Searching & Sorting](#Searching-&-Sorting-) |
 [Linked List](#Linked-List-) |
 [Binary-Trees](#Binary-Trees-) |
 [Binary Search Trees](#Binary-Search-Trees-) |
