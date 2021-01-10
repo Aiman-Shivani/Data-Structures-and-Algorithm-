@@ -1,2 +1,4 @@
-# Data-Structures-and-Algorithm-
-A list of around 400 questions that thoroughly covers all DSA topics used in competitive coding
+# Data Structures and Algotrithm Solutions
+
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-57/121-1f425f.svg)
+![java](https://img.shields.io/badge/Java-51/121-1abc9c.svg)
